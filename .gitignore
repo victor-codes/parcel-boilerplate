@@ -1,0 +1,8 @@
+node_modules
+.parcel-cache
+.cache
+.env
+.env.local
+.env.development    
+.env.test
+/public
